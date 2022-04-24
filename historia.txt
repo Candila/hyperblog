@@ -1,0 +1,4 @@
+Esta es la historia de Fernando Candila
+Maestro de programación
+Grabando esta clase para que sus alumnos aprendan git y github para administrar sus proyectos.
+
